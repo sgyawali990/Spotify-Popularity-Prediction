@@ -28,6 +28,7 @@ We compared a simple linear baseline against a complex non-linear ensemble:
 - **The "External" Factor:** Our models explain ~25% of popularity variance. This suggests that while sound matters, **75% of success** is likely driven by external factors like artist fame, marketing budgets, and viral social media trends.
 
 ## Project Structure
+```text
 .
 ├── spp.ipynb              # Main Jupyter Notebook
 ├── spotify_dataset.csv    # Dataset file
